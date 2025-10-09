@@ -41,19 +41,27 @@
 ```
 pkg update -y && pkg upgrade -y
 ```
-Install git & nodejs
+
+###Install git & nodejs
+
 ```
 pkg install git -y && pkg install nodejs
 ```
-##Install Script
+
+###Install Script
+
 ```
 git clone https://github.com/ryuhandev/rimubase.git
 ```
+```
 cd rimubase
 ```
+```
 npm install
+````
 ```
 npm start
+```
 ```
 
 > Masukkan nomor WhatsApp kamu dengan awalan 62 tanpa tanda “+”.
@@ -83,23 +91,25 @@ Berikut beberapa contoh dasar untuk menambah fitur:
 
 🧩 1. Balasan Sederhana dengan reply
 
+```
 case 'hii': {
   reply('Halooo 👋')
 }
 break
 
 Fungsi reply() berguna untuk mengirim teks cepat tanpa harus menulis sock.sendMessage.
-
+```
 
 ---
 
 🧩 2. Mengirim Pesan Biasa
 
+```
 case 'halo': {
   sock.sendMessage(m.chat, { text: 'Hai juga! Ada yang bisa Rimuru bantu?' }, { quoted: m })
 }
 break
-
+```
 
 ---
 
@@ -107,6 +117,7 @@ break
 
 Contoh pesan dengan dua tombol:
 
+```
 case 'menu': {
   let anu = 'Hai 👋\nBerikut beberapa fitur yang tersedia!'
   sock.send2Button(
@@ -119,6 +130,7 @@ case 'menu': {
   )
 }
 break
+```
 
 > Pastikan fungsi send2Button sudah tersedia di base kamu (udah ada di main.js).
 
@@ -129,6 +141,7 @@ break
 
 🧩 4. Mengirim Gambar
 
+```
 case 'foto': {
   sock.sendMessage(
     m.chat,
@@ -137,12 +150,13 @@ case 'foto': {
   )
 }
 break
-
+```
 
 ---
 
 🧩 5. Mengirim Video
 
+```
 case 'video': {
   sock.sendMessage(
     m.chat,
@@ -151,16 +165,17 @@ case 'video': {
   )
 }
 break
-
+```
 
 ---
 
 🧩 6. Auto Reply dengan Kondisi
 
+```
 if (body.startsWith('hai')) {
   reply('Hai juga manusia 👋')
 }
-
+```
 
 ---
 
@@ -171,12 +186,13 @@ if (body.startsWith('hai')) {
 
 2. Cari bagian seperti ini:
 
+```
 switch(command) {
   case 'ping':
     reply('Pong!')
     break
 }
-
+```
 
 3. Tambahkan case kamu di bawahnya.
 

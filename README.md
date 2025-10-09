@@ -42,13 +42,13 @@
 pkg update -y && pkg upgrade -y
 ```
 
-###Install git & nodejs
+### Install git & nodejs
 
 ```
 pkg install git -y && pkg install nodejs
 ```
 
-###Install Script
+### Install Script
 
 ```
 git clone https://github.com/ryuhandev/rimubase.git

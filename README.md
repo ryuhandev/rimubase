@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/o0i5v4.png" alt="Rimuru Bot" width="150"/>
+  <img src="https://files.catbox.moe/o0i5v4.png" alt="Rimuru Bot" width="300"/>
 </p>
 
 <h1 align="center">💧 Rimuru Base</h1>

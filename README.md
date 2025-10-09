@@ -80,7 +80,7 @@ Contoh benar: 62xxxx ✅
 💧 Cara Menambah Fitur (Case)
 
 > Semua fitur bot disimpan di file:
-sock.json atau di file utama bot.js (tergantung struktur base kamu).
+sock.js
 
 
 

@@ -38,19 +38,23 @@
 ## 💧 Installation (Termux)
 
 ### Update Package
-```bash
+```
 pkg update -y && pkg upgrade -y
-
+```
 Install git & nodejs
-
+```
 pkg install git -y && pkg install nodejs
-
-Install Script
-
+```
+##Install Script
+```
 git clone https://github.com/ryuhandev/rimubase.git
+```
 cd rimubase
+```
 npm install
+```
 npm start
+```
 
 > Masukkan nomor WhatsApp kamu dengan awalan 62 tanpa tanda “+”.
 Contoh salah: +62xxxx ❌

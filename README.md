@@ -181,7 +181,7 @@ if (body.startsWith('hai')) {
 
 💧 Tips Dasar Menambah Case
 
-1. Buka file utama bot, misalnya bot.js atau index.js
+1. Buka file sock.js
 
 
 2. Cari bagian seperti ini:

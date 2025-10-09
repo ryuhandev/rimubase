@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/y5n3qb.png" alt="Rimuru Bot" width="150"/>
+  <img src="https://files.catbox.moe/y5n3qb.png" alt="Rimuru Bot" width="300"/>
 </p>
 
 ## 💧 Installation (Termux)

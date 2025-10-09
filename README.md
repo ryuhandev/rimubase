@@ -74,7 +74,7 @@ Contoh benar: 62xxxx ✅
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/m01bz7.png" alt="Rimuru Bot" width="150"/>
+  <img src="https://files.catbox.moe/m01bz7.png" alt="Rimuru Bot" width="300"/>
 </p>
 
 💧 Cara Menambah Fitur (Case)
@@ -232,7 +232,7 @@ Jika kamu suka project ini, bantu dengan:
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/f8tj1b.png" alt="Rimuru Bot" width="150"/>
+  <img src="https://files.catbox.moe/f8tj1b.png" alt="Rimuru Bot" width="300"/>
 </p>
 
 **Creators Contact:**  :bust_in_silhouette:

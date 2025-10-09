@@ -5,7 +5,7 @@
 <h1 align="center">💧 Rimuru Base</h1>
 <p align="center">
   Base WhatsApp Bot simple & powerful untuk pemula yang ingin belajar membuat bot sendiri dari awal.  
-  Dibuat dengan Node.js dan Baileys MD — sangat cocok untuk belajar membuat fitur (case) dan mengembangkan bot pribadi.
+  Dibuat dengan Node.js dan Baileys MD sangat cocok untuk belajar membuat fitur (case) dan mengembangkan bot pribadi.
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ npm install
 ```
 npm start
 ```
-```
+
 
 > Masukkan nomor WhatsApp kamu dengan awalan 62 tanpa tanda “+”.
 Contoh salah: +62xxxx ❌
@@ -96,9 +96,9 @@ case 'hii': {
   reply('Halooo 👋')
 }
 break
+```
 
 Fungsi reply() berguna untuk mengirim teks cepat tanpa harus menulis sock.sendMessage.
-```
 
 ---
 

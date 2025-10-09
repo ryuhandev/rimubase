@@ -232,7 +232,7 @@ Jika kamu suka project ini, bantu dengan:
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/f8tj1b.png/o0i5v4.png" alt="Rimuru Bot" width="150"/>
+  <img src="https://files.catbox.moe/f8tj1b.png" alt="Rimuru Bot" width="150"/>
 </p>
 
 **Creators Contact:**  :bust_in_silhouette:

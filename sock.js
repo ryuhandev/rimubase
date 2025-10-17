@@ -9,7 +9,7 @@ const {
 	prepareWAMessageMedia,
 	areJidsSameUser,
 	getContentType
-} = require('@adiwajshing/baileys')
+} = require('@whiskeysockets/baileys')
 const fs = require('fs');
 const os = require('os')
 const upload = require('./lib/uploader')

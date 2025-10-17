@@ -9,7 +9,7 @@
   "author": "Someone",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:@ryuhan/baileys",
+    "@whiskeysockets/baileys": "npm:@ryuhan/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "chalk": "^4.1.2",
